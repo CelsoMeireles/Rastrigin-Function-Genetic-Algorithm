@@ -6,7 +6,7 @@ The Rastrigin function is a non-convex function used to evaluate the performance
 
 The goal is to implement a GA and apply it to minimize the Rastrigin function with n = 10 variables.
 
-# FUNC
+<img src="https://raw.githubusercontent.com/CelsoMeireles/Rastrigin-Function-Genetic-Algorithm/main/Rastrigin.PNG" width=450>
 
 with x<sub>i</sub> &#8714; [5:12; 5:12]. The global minima is x* = 0, where f(x*) = 0.
 
